@@ -4,7 +4,7 @@
         "paragraph": "How to start an online Business with your smartphone and Earn At Least 300k Monthly."
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "comming soon .",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -148,32 +148,32 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
+        "address": "4321 benin city,  ",
         "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "email": "info@osaze.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Fixed Recuring Commission",
+            "text": "Needless to say, high commission rates are a must in a perfect affilate program. it's even better if such a lucrative commission is fixed and recrring."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "High Brand Recognition",
+            "text": "Brand recognition determines how easy it is to sell a given product.Naturally, it's much more effortless to become a successfull affilate if you promote well-established and highly trusted brands and products ."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Social Presence",
+            "text": "Aiso take a look at vendor's social media profiles and study their social presence in niche-relevant communities. Find out how strong a social following the merchant has amasses and how active these followers are ."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Dedicate Affilate Manager",
+            "text": "A dedicated affiliate manager is absolutely indispensable to any project of this kind. An affilate manager is usually responsible for managing and supervising the affilate programs and operations."
         }
     ]
 }
